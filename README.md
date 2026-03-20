@@ -1,25 +1,25 @@
 # Hi there, I'm Tarun Patanjali! 👋
 
-[cite_start]I am a Computer Science student at **The University of Texas at Austin**[cite: 4, 5]. [cite_start]I'm passionate about building high-performance systems and exploring the frontiers of Machine Learning and Artificial Intelligence[cite: 36].
+I am a Computer Science student at **The University of Texas at Austin**. I'm passionate about building high-performance systems and exploring the frontiers of Machine Learning and Artificial Intelligence.
 
 ## 🎓 Academic Focus & Research
 
-[cite_start]I am deeply involved in project-based learning and research through the **Directed Reading Program (DiRP)**[cite: 34, 36]. Currently, I am a member of two distinct DiRP groups:
+I am deeply involved in project-based learning and research through the **Directed Reading Program (DiRP)**. Currently, I am a member of two distinct DiRP groups:
 
 * **Foundations of ML Research:** Focused on the mathematical and theoretical underpinnings of machine learning.
 * **Deep Learning:** Exploring advanced neural network architectures and their applications.
-* [cite_start]**Computer Architecture TA:** I also serve as a Teaching Assistant for Computer Architecture & Organization at UT Austin[cite: 8].
+* **Computer Architecture TA:** I also serve as a Teaching Assistant for Computer Architecture & Organization at UT Austin, managing office hours and leading memory management labs.
 
 ## 🤘 Longhorn Developers
 
-[cite_start]I am an active developer with **Longhorn Developers**, collaborating on tools to improve the campus community[cite: 31, 32].
-* [cite_start]**[Degree Audit Plus](https://github.com/Longhorn-Developers/Degree-Audit-Plus):** Developing an extension to modernize the interactive degree audit for all students[cite: 33].
+I am an active developer with **Longhorn Developers**, collaborating on tools to improve the campus community.
+* **[Degree Audit Plus](https://github.com/Longhorn-Developers/Degree-Audit-Plus):** Developing an extension to modernize the interactive degree audit for all UT students.
 
 ## 🚀 Featured Projects
 
-* [cite_start]**[MedClarify](https://github.com/tarpat/medclarify)** - Placed 3rd in an Anthropic-sponsored hackathon; uses Claude API to simplify medical documents[cite: 38].
-* [cite_start]**[HAND-S](https://github.com/tarpat/HAND-S)** - CNN-based handwriting analysis for neuropsychiatric disorders with 92% accuracy[cite: 44].
-* [cite_start]**[SpanishAutismSpeechAssistanceApp](https://github.com/tarpat/SpanishAutismSpeechAssistanceApp)** - Java-based Android app to accelerate Spanish learning for autistic children[cite: 46, 47].
+* **[MedClarify](https://github.com/tarpat/medclarify)** - Placed 3rd in an Anthropic-sponsored hackathon; uses Claude API to simplify medical documents.
+* **[HAND-S](https://github.com/tarpat/HAND-S)** - CNN-based handwriting analysis for neuropsychiatric disorders with 92% accuracy, developed during the MIT Beaver Works Summer Institute.
+* **[Library Management App](https://github.com/tarpat/library-management)** - Lead Engineer for a non-profit school app serving 400+ users, built with React and Azure SQL.
 
 ## 🛠️ My Toolbox
 
