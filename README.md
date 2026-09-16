@@ -12,7 +12,7 @@ I am deeply involved in project-based learning and research through the **Direct
 
 ## 🤘 Longhorn Developers
 
-I am an active developer with **Longhorn Developers**, collaborating on tools to improve the campus community.
+I am an active tech lead with **Longhorn Developers** for **Degree Audit Plus**, collaborating on tools to improve the campus community.
 * **[Degree Audit Plus](https://github.com/Longhorn-Developers/Degree-Audit-Plus):** Developing an extension to modernize the interactive degree audit for all UT students.
 
 ## 🚀 Featured Projects
