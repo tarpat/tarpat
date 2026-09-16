@@ -26,11 +26,10 @@ I am an active tech lead with **Longhorn Developers** for **Degree Audit Plus**,
 ![SQL](https://img.shields.io/badge/sql-%2300758F.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
 ## My GitHub Stats
-[![Tarun's GitHub stats](https://github-stats-extended.vercel.app/api?username=tarpat)](https://github.com/stats-organization/github-stats-extended)
-<!-- <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=tarpat&show_icons=true&theme=tokyonight" alt="Tarun's GitHub Stats" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tarpat&layout=compact&theme=tokyonight" alt="Top Langs" height="150" />
-</p> -->
+<p align="left">
+  <img src="https://github-stats-extended.vercel.app/api?username=tarpat&show_icons=true&theme=tokyonight" alt="Tarun's GitHub Stats" height="150" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=tarpat&layout=compact&theme=tokyonight" alt="Top Langs" height="150" />
+</p>
 
 ## Connect with me
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tarunpatanjali)
