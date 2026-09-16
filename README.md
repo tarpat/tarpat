@@ -2,7 +2,7 @@
 
 I am a student pursuing a major in Computer Science and minor in Statistics and Data Science at **The University of Texas at Austin** and a Computer Architecture and Organization TA. I'm passionate about systems, AI, and software engineering.
 
-## 🤘 Longhorn Developers
+## Longhorn Developers 🤘
 
 I am an active tech lead with **Longhorn Developers** for **Degree Audit Plus**, collaborating on tools to improve the campus community.
 * **[Degree Audit Plus](https://github.com/Longhorn-Developers/Degree-Audit-Plus):** Developing an extension to modernize the interactive degree audit for all UT students.
