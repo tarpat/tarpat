@@ -11,7 +11,7 @@ I am an active tech lead with **Longhorn Developers** for **Degree Audit Plus**,
 
 * **[MedClarify](https://github.com/tarpat/medclarify)** - Placed 3rd in an Anthropic-sponsored hackathon; uses Claude API to simplify medical documents.
 * **[HAND-S](https://github.com/tarpat/HAND-S)** - CNN-based handwriting analysis for neuropsychiatric disorders with 92% accuracy, developed during the MIT Beaver Works Summer Institute.
-* **[Library Management App](https://github.com/tarpat/library-management)** - Lead Engineer for a non-profit school app serving 400+ users, built with React and Azure SQL.
+* **Library Management App** - Lead Engineer for a non-profit school app serving 400+ users, built with React and Azure SQL.
 * **[Duck Trouble](https://github.com/tarpat/ducktrouble)** - Placed as funniest hack in UT Austin wide hackathon.
 
 ## My Toolbox
