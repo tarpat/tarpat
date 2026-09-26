@@ -30,6 +30,3 @@ I am an active tech lead with **Longhorn Developers** for **Degree Audit Plus**,
   <img src="https://github-stats-extended.vercel.app/api?username=tarpat&show_icons=true&theme=tokyonight" alt="Tarun's GitHub Stats" height="150" />
   <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=tarpat&layout=compact&theme=tokyonight" alt="Top Langs" height="150" />
 </p>
-
-## Connect with me
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tarunpatanjali)
